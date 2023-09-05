@@ -1,6 +1,6 @@
 <div align="center">
   
-# Javascript-notes
+# Javascript-Notes
 </div>
 
 
