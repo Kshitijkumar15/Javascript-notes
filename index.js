@@ -1,7 +1,7 @@
 
 1. ways to print in Javascript
 console.log("Hello");
-alert("me");
+alert("Me");
 document.write("Document")
 
 2. Javascript console API
