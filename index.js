@@ -1,4 +1,4 @@
-/*
+
 1. ways to print in Javascript
 console.log("Hello");
 alert("me");
@@ -267,4 +267,3 @@ js = JSON.stringify(obj);
 console.log(js)
 parsed =JSON.parse('{"name":"kshitij","length":1,"lastname":"kumar singh","lenght":2}')
 console.log(parsed);
-*/
